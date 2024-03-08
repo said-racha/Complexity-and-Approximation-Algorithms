@@ -1,9 +1,9 @@
 # Présentation
-Projet de l'UE COMPLEX M1-S1 Sorbonne Université.
+Projet de l'UE COMPLEX M1-S1 Sorbonne Université
 
 # Biôme
-MAOUCHE Mounir M1-IMA
-[SAID Racha](https://github.com/said-racha) M1-DAC
+- MAOUCHE Mounir M1-IMA
+- [SAID Racha](https://github.com/said-racha) M1-DAC
 
 # Problème étudié
 Couverture minimum par sommets (Vertex cover)
